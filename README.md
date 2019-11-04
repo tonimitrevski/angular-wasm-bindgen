@@ -14,5 +14,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-#Webassembly
+## Webassembly
 Webassembly module is stored in "src/web-assembly" and the import in app.component 
